@@ -1,8 +1,8 @@
 --- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Ifera/ScoreHud
-branches:
+branches:Money:
 - master
 projects:
-  ScoreHud:
+  ScoreHud:SkyFactionsPe
     icon: meta/ScoreHud.PNG
     libs:
       - src: buchwasa/ScoreFactory/ScoreFactory
